@@ -48,11 +48,11 @@
 
 <h3 align="center">🥨 Contact </h3>
 <div align="center">
-  </a>
   <a href="mailto:cxyz.kim@gmail.com">
     <img
       src="https://img.shields.io/badge/cxyz.kim@gmail.com-fc1e68?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
+</div>
 
 <hr>
 
